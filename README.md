@@ -7,4 +7,5 @@
 * 
 
 * 메인화면
-https://cloud.githubusercontent.com/assets/20263138/17649504/d7c96218-6271-11e6-97e2-76cb808483a1.JPG
+
+![Main UI](https://cloud.githubusercontent.com/assets/20263138/17649504/d7c96218-6271-11e6-97e2-76cb808483a1.JPG)
